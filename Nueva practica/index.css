@@ -1,0 +1,14 @@
+main{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    size: 3px;
+}
+ul{
+    display: flex;
+    align-items: inherit;
+}
+ol{
+    display: flex;
+    margin-right: 10px;
+    background-color: aqua;
+}
